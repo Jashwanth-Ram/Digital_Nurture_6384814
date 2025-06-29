@@ -1,0 +1,20 @@
+23:01:36.371 [main] DEBUG Main - Debugging info - useful for development.
+23:01:36.373 [main] INFO  Main - Informational message - routine event.
+23:01:36.373 [main] WARN  Main - Warning - something unexpected might happen.
+23:01:36.374 [main] ERROR Main - Error - something failed!
+23:05:20.749 [main] DEBUG Main - Debugging info - useful for development.
+23:05:20.751 [main] INFO  Main - Informational message - routine event.
+23:05:20.751 [main] WARN  Main - Warning - something unexpected might happen.
+23:05:20.751 [main] ERROR Main - Error - something failed!
+11:28:49.166 [Main.main()] DEBUG Main - Debugging info - useful for development.
+11:28:49.168 [Main.main()] INFO  Main - Informational message - routine event.
+11:28:49.169 [Main.main()] WARN  Main - Warning - something unexpected might happen.
+11:28:49.173 [Main.main()] ERROR Main - Error - something exception occured,failed!
+11:29:29.263 [Main.main()] DEBUG Main - Debugging info - useful for development/bugs detect.
+11:29:29.265 [Main.main()] INFO  Main - Informational message
+11:29:29.265 [Main.main()] WARN  Main - Warning - something unexpected might happen.
+11:29:29.265 [Main.main()] ERROR Main - Error - something exception occured,failed!
+11:29:35.643 [Main.main()] DEBUG Main - Debugging info - useful for development/bugs detect.
+11:29:35.646 [Main.main()] INFO  Main - Informational message
+11:29:35.646 [Main.main()] WARN  Main - Warning - something unexpected might happen.
+11:29:35.647 [Main.main()] ERROR Main - Error - something exception occured,failed!
