@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.sourcePaths": [
+        "1_Algorithms_DataStructures/additional/Library_Management_System",
+        "1_Algorithms_DataStructures/7_Financial_Forecasting/code",
+        "1_Algorithms_DataStructures/2_E-commerce_Platform_Search_Function/code",
+        "2_JUnit_Mockito_and_SLF4J/SLF4J_Exercises/2_Parameterized_Logging/Code/src/main/java"
+    ]
+}
