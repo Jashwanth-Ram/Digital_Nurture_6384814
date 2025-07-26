@@ -1,0 +1,19 @@
+.App {
+  padding: 2rem;
+}
+
+.details‑wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.st2,
+.v1,
+.mystyle1 {
+  flex: 1;
+  max-width: 300px;
+  margin: 0 1rem;
+  padding: 1rem;
+  border-left: 4px solid #0a0; 
+}
